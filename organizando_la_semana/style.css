@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    background-color: rgb(116, 231, 231);
+    font-size: 18px;
+}
+
+td {
+    background-color: rgb(242, 215, 183);
+    font-size: 12px;
+}
